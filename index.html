@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Previsão do Tempo</title>
+</head>
+
+<body>
+    <div id="container">
+
+        <h1 class="title">Previsão de Tempo</h1>
+
+        <div class="consultArea">
+            <form class="consultForm">
+                <input id="inputLocation" type="text" placeholder="Ex: Sao Paulo">
+            </form>
+            <button type="button" id="btnConsult">Consultar</button>
+        </div>
+
+        <div class="content">
+
+            <div id="card1" class="selected">
+                <h2 id="city1" class="city">Cidade 1</h2>
+                <h3 id="dataTime1" class="dataTime">06/04/2022</h3>
+                <p id="MinMax1" class="MinMax">19°/23°</p>
+
+                <img id="image1" class="image" src="images/nublado.png" alt="cloud/sun">
+                <h4 id="temp1" class="temp">19°</h4>
+
+                <span id="desc1" class="desc">Tempo nublado</span>
+            </div>
+
+            <div id="card2">
+                <h2 id="city2" class="city">Cidade 2</h2>
+                <h3 id="dataTime2" class="dataTime">06/04/2022</h3>
+                <p id="MinMax2" class="MinMax">19°/23°</p>
+
+                <img id="image2" class="image" src="images/nublado.png" alt="cloud/sun">
+                <h4 id="temp2" class="temp">-</h4>
+
+                <span id="desc2" class="desc">Tempo nublado</span>
+            </div>
+
+            <div id="card3">
+                <h2 id="city3" class="city">Cidade 3</h2>
+                <h3 id="dataTime3" class="dataTime">06/04/2022</h3>
+                <p id="MinMax3" class="MinMax">19°/23°</p>
+
+                <img id="image3" class="image" src="images/nublado.png" alt="cloud/sun">
+                <h4 id="temp3" class="temp">-</h4>
+
+                <span id="desc3" class="desc">Tempo nublado</span>
+            </div>
+
+        </div>
+
+        <div class="actions">
+            <button id="nextBtn">Anterior</button>
+            <button id="backBtn">Próximo</button>
+        </div>
+
+        <footer>
+            <p>Desenvolvido por <a href="https://github.com/YoungC0DE">Rafael Anjos Santos</a></p>
+            <span>2022</span>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
