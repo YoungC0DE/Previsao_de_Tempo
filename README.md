@@ -15,3 +15,6 @@ O codigo está devidamente comentado e de fácil leitura.
 Click aqui em [download](https://github.com/YoungC0DE/PrevisaoDeTempo/archive/refs/heads/main.zip),
 Em seguida ele irá fazer o download do projeto em .zip. Após o download entre na pasta e na subpasta com o nome **PrevisaoDeTempo**
 Dentro da pasta você encontrará o arquivo **index.html**, basta clicar nele e pronto.
+
+## Ilustração:
+![illustrate](https://user-images.githubusercontent.com/68437256/162634200-0002c71e-b205-4433-a785-941d3e559fb2.png)
