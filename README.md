@@ -21,6 +21,6 @@ Dentro da pasta você encontrará o arquivo **index.html**, basta clicar nele e 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/68437256/162634200-0002c71e-b205-4433-a785-941d3e559fb2.png" width="500">
   
-  <code>Imagem ilustrativa</code
+  <code>Imagem ilustrativa</code>
   _04/2022_
 </div>
