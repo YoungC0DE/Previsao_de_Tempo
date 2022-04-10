@@ -17,4 +17,6 @@ Em seguida ele irá fazer o download do projeto em .zip. Após o download entre 
 Dentro da pasta você encontrará o arquivo **index.html**, basta clicar nele e pronto.
 
 ## Ilustração:
-![illustrate](https://user-images.githubusercontent.com/68437256/162634200-0002c71e-b205-4433-a785-941d3e559fb2.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/68437256/162634200-0002c71e-b205-4433-a785-941d3e559fb2.png" width="300">
+</div>
